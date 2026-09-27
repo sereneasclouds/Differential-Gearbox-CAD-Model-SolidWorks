@@ -1,8 +1,6 @@
 # SolidWorks Automotive Differential Gearbox CAD Model
 
-A **3D CAD modelling and assembly project developed using SOLIDWORKS**, focused on the design and assembly of an automotive differential gearbox.
-
-The project consists of multiple individually modelled mechanical components that are integrated into a complete **differential gearbox assembly**.
+A **3D CAD modelling and assembly project developed using SOLIDWORKS**, focused on the design and assembly of an automotive differential gearbox.The project consists of multiple individually modelled mechanical components that are integrated into a complete **differential gearbox assembly**.
 
 ---
 
@@ -24,16 +22,34 @@ The project demonstrates practical application of:
 
 ## Software Used
 
-- **SOLIDWORKS**
-- SolidWorks Part Design
-- SolidWorks Assembly Design
-- 3D CAD Modelling
+- SolidWorks(3D CAD modelling)
+
 
 ---
 
 ## CAD Model
 
-The main assembly file is:
+7 Parts
 
 ```text
 Differential Gearbox.SLDASM
+
+## Modelling Workflow
+
+The differential gearbox CAD model was developed through the following
+workflow:
+
+```text
+Individual Component Design
+            ↓
+      3D Part Modelling
+            ↓
+    Parametric CAD Features
+            ↓
+   Component Geometry Development
+            ↓
+      Assembly Integration
+            ↓
+   SolidWorks Assembly Design
+            ↓
+ Differential Gearbox CAD Model
