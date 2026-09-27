@@ -32,12 +32,9 @@ The project includes **7 individually modelled SolidWorks components**, develope
 
 These components are integrated into the main **`Differential Gearbox.SLDASM` assembly file**, which represents the complete assembled CAD model.
 
-
 ## Modelling Workflow
 
-The differential gearbox CAD model was developed through the following
-workflow:
-
+```text
 Individual Component Design
             ↓
       3D Part Modelling
