@@ -28,18 +28,16 @@ The project demonstrates practical application of:
 ---
 
 ## CAD Model
+The project includes **7 individually modelled SolidWorks components**, developed as separate `.SLDPRT` part files.
 
-7 Parts
+These components are integrated into the main **`Differential Gearbox.SLDASM` assembly file**, which represents the complete assembled CAD model.
 
-```text
-Differential Gearbox.SLDASM
 
 ## Modelling Workflow
 
 The differential gearbox CAD model was developed through the following
 workflow:
 
-```text
 Individual Component Design
             ↓
       3D Part Modelling
